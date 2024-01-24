@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算機", "計算機\計算機.csproj", "{71BC532A-6768-4AF0-8CA4-35CF51B6BECF}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{3DB7610D-328C-4F80-B69C-48351644B674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{71BC532A-6768-4AF0-8CA4-35CF51B6BECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71BC532A-6768-4AF0-8CA4-35CF51B6BECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71BC532A-6768-4AF0-8CA4-35CF51B6BECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB7610D-328C-4F80-B69C-48351644B674}.Debug|Any CPU.ActiveCfg = Debug
+		{3DB7610D-328C-4F80-B69C-48351644B674}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
