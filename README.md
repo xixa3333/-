@@ -1,2 +1,2 @@
-# 計算機專案
-仿造ios計算機製作
+# calculator
+Counterfeit ios computer production
