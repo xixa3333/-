@@ -1,6 +1,8 @@
 # 簡易計算機應用程式
 
-這是一個基於 C# 語言開發的簡易計算機應用程式，使用 Windows Forms 框架構建，。
+這是一個基於 C# 語言開發的簡易計算機應用程式，使用 Windows Forms 框架構建。
+
+![image](https://github.com/xixa3333/calculator/assets/128284090/931d4f11-3317-471f-80fc-10d24713fb0a)
 
 ## 功能特色
 
